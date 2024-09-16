@@ -1,0 +1,15 @@
+.about {
+  padding: 34px 35px 27px;
+}
+
+.aboutTitle {
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 600;
+}
+
+.aboutDesc {
+  font-size: 10.24px;
+  line-height: 150%;
+  color: #dcdcdc;
+}

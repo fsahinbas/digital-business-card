@@ -1,0 +1,12 @@
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+  padding: 19.5px 0;
+}
+
+.footer img {
+  width: 25px;
+  aspect-ratio: 1;
+}

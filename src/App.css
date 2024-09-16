@@ -1,0 +1,23 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Inter", system-ui;
+  background-color: #23252c;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.main {
+  width: 317px;
+  border-radius: 10px;
+  background-color: #1a1b21;
+  color: #fff;
+}

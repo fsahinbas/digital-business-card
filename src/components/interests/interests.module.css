@@ -1,0 +1,15 @@
+.interests {
+  padding: 0 35px 27px;
+}
+
+.interestsTitle {
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 600;
+}
+
+.interestsDesc {
+  font-size: 10.24px;
+  line-height: 150%;
+  color: #dcdcdc;
+}
